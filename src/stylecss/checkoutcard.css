@@ -1,0 +1,11 @@
+.horizontal-stars {
+    display: flex;
+    flex-direction: row; /* Muestra las estrellas horizontalmente */
+  }
+
+  .cardRating {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+  }
+  
